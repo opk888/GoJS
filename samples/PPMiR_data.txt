@@ -1,0 +1,37 @@
+PPBLCC-1656: acserv 
+PPBLGCP-1659: amqfpmmd amqbcpaymentrecond 
+PPBLGCP-1825: moneyplanningserv_ca amqmoneyfulfillmentd fulfillmentinternalserv_ca fulfillmentinternalserv
+PPBLGCP-1826: amqmoneyinternald 
+PPBLGCP-1867: finsyspaypalcardfileconfig 
+PPBLGCP-1871: filestatemanagementserv 
+PPBLGCP-1875: moneyplanningserv_ca 
+PPBLRAC-1785: amqnotifybizeventd 
+PPBLRAC-1799: tiseventbridgeserv amqtrinitytxnlinkingd amqtrinityidentityd amqtrinitycased
+PPBLRAC-1832: complifecycleserv 
+PPBLRAC-1880: complianceodserv 
+PPBLRAC-1897: compliancereadserv 
+PPBLRAC-1905: yamcompinternalnpmsgd 
+PPBLRAC-1907: complianceadapterserv 
+PPGOPS-5781: messagecenterserv 
+PPGOPS-5796: ciproattack 
+PPGOPS-5797: ciproattack attackclient amqnotificationarchiverd 
+PPGOPS-5798: ciproattack 
+PPGOPS-5800: admin 
+PPPLBUS-5257: adaptiveaccountsserv adaptiveaccountsapiserv 
+PPPLBUS-5503: amqsegmentpayeventd 
+PPPLBUS-5509: payoutsqueryserv 
+PPPLBUS-5534: webservicesproxy 
+PPPLBUS-5543: incentiveredemptionserv incentivelifecycleserv 
+PPPLBUS-5562: settlementpreferencesserv 
+PPPLBUS-5668: billagmtserv 
+PPPLCONSMR-4151: masspayprofileactivitysearchserv 
+PPPLCONSMR-4324: walletactivitygatewayd 
+PPPLCONSMR-4332: activityorchestrationsearchserv 
+PPTIPS-1507: ffxserv ffxserv_ca 
+PPTIPS-1553: yamproxy 
+PPTIPS-1568: admin-ffxadmin 
+PPTIPS-1590: ofacauthserv identitysecuretokenserv 
+PPTIPS-1618: amqpaymentwebhookd 
+PPTITECH-3959: notificationsconfig 
+PPTITECH-3992: unpingestd unpdeliveryserv unpstatusmanagerd 
+PPTITECH-4155: diagnosticsagent 
